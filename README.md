@@ -1,2 +1,7 @@
-# demo-parodi-constructora-real-estate
-Demo web para Parodi Constructora Real Estate — diseñada por eterlab.
+# Parodi Constructora Real Estate
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
